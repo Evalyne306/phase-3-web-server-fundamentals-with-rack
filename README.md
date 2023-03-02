@@ -1,6 +1,6 @@
-# Web Server Fundamentals
+# Web Server Fundamentals.
 
-## Learning Goals
+## Learning Goals.
 
 - Understand how a web server works
 - Use Rack to create a simple, bare-bones web server
